@@ -4,6 +4,14 @@ class Program
 {
     static void Main(string[] args)
     {
+        string name = "Alice";
+        int age = 25;
+        string message = $"My name is {name} and I am {age} years old.";
+        Console.WriteLine(message);
+
+
+
+
         string str = "  Hello World  ";
 
         Console.WriteLine("Original string: '" + str + "'");
