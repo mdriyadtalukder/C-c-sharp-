@@ -1,4 +1,4 @@
-using System; //eitai onsole.writeLine eisb function ase
+using System; //eitai console.writeLine eisb function ase
 
 class Program //c# strict OOP language so ekta class er vitor sob likhte hbe
 {

@@ -1,7 +1,7 @@
 using System;
 //An interface contains method declarations that implementing classes must define.
 //c++ does not have interface..it creates by abstract class+pure function in c++
-interface IAnimal
+interface IAnimal //interface er name I dara suru hy
 {
     void Eat();
 }
