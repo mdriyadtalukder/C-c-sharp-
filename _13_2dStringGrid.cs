@@ -31,6 +31,7 @@ class Program
                 Console.Write(grid[i, j] + " ");
             }
             Console.WriteLine();
+            
         }
     }
 }
