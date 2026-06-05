@@ -7,7 +7,7 @@ class Program
         float b = 3.14f;     // Float
         double c = 3.14159;  // Double (more precision)
         char d = 'A';        // Single character
-        bool e = true;       // True/False
+        bool e = true;       // True or False
         String r = "riyad";
         Console.WriteLine(a);
     }
